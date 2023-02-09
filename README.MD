@@ -16,3 +16,4 @@
 # 15. Let’s move
 # 16. Clean Emacs
 # 17. Tree
+[All projects](https://github.com/sindi702/holbertonschool-shell/tree/main/basics)
