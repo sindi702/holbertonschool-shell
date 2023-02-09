@@ -1,11 +1,7 @@
-# holbertonschool-shelL
-* *0.Where am I?
+# Holbertonschool-shelL
+0.Where am I?
 
-here
- 
-* 1.What’s in there?
-
-here also
+1.What’s in there?
 
 2.There is no place like home
 
