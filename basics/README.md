@@ -18,3 +18,17 @@ Write a script that changes the working directory to the user’s home directory
 Display current directory contents in a long format
 
 [3-listfiles](https://github.com/sindi702/holbertonschool-shell/blob/main/basics/3-listfiles)
+## 4. Hidden files
+Display current directory contents, including hidden files (starting with .). Use the long format.
+
+[4-listmorefiles](https://github.com/sindi702/holbertonschool-shell/blob/main/basics/4-listmorefiles)
+
+
+## 5. I love numbers
+Display current directory contents.
+
+Long format
+with user and group IDs displayed numerically
+And hidden files (starting with .)
+
+[5-listfilesdigitonly](https://github.com/sindi702/holbertonschool-shell/blob/main/basics/5-listfilesdigitonly)
