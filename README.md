@@ -1,5 +1,5 @@
 # SHELL BASICS
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffavpng.com%2Fpng_view%2Fshell-logo-bash-shell-unix-png%2FS6caZYy2&psig=AOvVaw2-Ey01d49lYRvPCcoC0fnD&ust=1676108037278000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLjV2ZLTiv0CFQAAAAAdAAAAABAE)
+![](downloads/shell.png)
 
 0.Where am I?
 
