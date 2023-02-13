@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 774 hello
-
+chmom ug+x,o+r hello
