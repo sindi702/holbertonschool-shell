@@ -1,2 +1,2 @@
 #!/bin/bash
-tr 'Ac' 'Ze' < input_file > output_file
+sed -i 's/A/Z/g;s/c/e/g' input_file
